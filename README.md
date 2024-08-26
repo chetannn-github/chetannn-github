@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 💬 Ask me about **ReactJS ,Tailwaind CSS , GSAP, ExpressJS , MONGODB, SOCKET.IO, FIREBASE**
+- 💬 Ask me about **ReactJS ,Tailwind CSS , GSAP, ExpressJS , MongoDB, Firebase ❤️**
 
 - 📫 How to reach me **chetan.rajawat25@gmail.com**
 
