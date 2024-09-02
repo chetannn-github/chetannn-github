@@ -28,4 +28,4 @@
 
 
 
-![snake gif](https://github.com/chetannn-github/chetannn-github/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/chetannn-github/chetannn-github/blob/output/github-contribution-grid-snake.svg)
