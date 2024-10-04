@@ -25,3 +25,16 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=chetannn-github&show_icons=true&locale=en&layout=compact" alt="chetannn-github" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetannn-github&" alt="chetannn-github" />
+
+<h3>Example of my work: </h3>
+<p float="left">
+ <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="300" /></a>
+  
+   <a href="https://netflix-gpt-fpjo.onrender.com/login"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/public/assets/preview.png"  /></a>
+ <a href="https://moms-recipe-box.onrender.com/"> <img src="https://github.com/chetannn-github/recipe-app/blob/main/public/preview.png"  /></a>
+   
+  <a href="https://ig-k2wa.onrender.com/"> <img src="https://github.com/chetannn-github/instagram-react-firebase/blob/main/public/preview/preview4.png"  /></a>
+ <a href="https://rejouice.onrender.com/"> <img src="https://github.com/chetannn-github/REJOUICE/blob/main/images/preview.png"  /></a>
+  
+  
+</p>
