@@ -32,11 +32,11 @@
  <h2> <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> Aora-A Videosharing App using React Native</a></h2>
  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="32%" /></a>
   <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="32%" /></a>
- <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview3.jpg" width="32%" /></a>
+ <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview6.jpg" width="32%" /></a>
 <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview4.jpg" width="32%" /></a>
+<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview5.jpg" width="32%" /></a>
 
-
-
+<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview7.jpg" width="32%" /></a>
  
  <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Application</a></h2>
    <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/public/assets/preview.png"  /></a>
