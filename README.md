@@ -30,15 +30,15 @@
 <h3>Example of my work: </h3>
 <p float="left">
  <h2>Aora-A Videosharing App using React Native</h2>
- <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="280" /></a>
-  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="280" /></a>
- <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview3.jpg" width="280" /></a>
-
+ <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="32%" /></a>
+  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="32%" /></a>
+ <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview3.jpg" width="32%" /></a>
+<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview4.jpg" width="32%" /></a>
  <h2>NETFLIX-GPT - AI-Powered Movie Search Application</h2>
    <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/public/assets/preview.png"  /></a>
 
    <h2>Recipe Finder using ReactJS, Redux, CSS.</h2>
- <a href="https://moms-recipe-box.onrender.com/"> <img src="https://github.com/chetannn-github/recipe-app/blob/main/public/preview.png"  /></a>
+ <a href="https://github.com/chetannn-github/recipe-app"> <img src="https://github.com/chetannn-github/recipe-app/blob/main/public/preview.png"  /></a>
    <h2>Social Media Website using React & Firebase.</h2>
   <a href="https://github.com/chetannn-github/instagram-react-firebase"> <img src="https://github.com/chetannn-github/instagram-react-firebase/blob/main/public/preview/preview4.png"  /></a>
    <h2>Modern Agency Landing page using GSAP, Locomotive Scroll..</h2>
