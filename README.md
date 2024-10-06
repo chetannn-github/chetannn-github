@@ -29,19 +29,27 @@
 </p>
 <h3>Example of my work: </h3>
 <p float="left">
- <h2>Aora-A Videosharing App using React Native</h2>
+ <h2> <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> Aora-A Videosharing App using React Native</a></h2>
  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="32%" /></a>
   <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="32%" /></a>
  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview3.jpg" width="32%" /></a>
 <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview4.jpg" width="32%" /></a>
- <h2>NETFLIX-GPT - AI-Powered Movie Search Application</h2>
+
+
+
+ 
+ <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Application</a></h2>
    <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/public/assets/preview.png"  /></a>
 
-   <h2>Recipe Finder using ReactJS, Redux, CSS.</h2>
+   <h2> <a href="https://github.com/chetannn-github/recipe-app">Recipe Finder using ReactJS, Redux, CSS.</a></h2>
  <a href="https://github.com/chetannn-github/recipe-app"> <img src="https://github.com/chetannn-github/recipe-app/blob/main/public/preview.png"  /></a>
-   <h2>Social Media Website using React & Firebase.</h2>
+
+    
+   <h2><a href="https://github.com/chetannn-github/instagram-react-firebase">Social Media Website using React & Firebase.</a></h2>
   <a href="https://github.com/chetannn-github/instagram-react-firebase"> <img src="https://github.com/chetannn-github/instagram-react-firebase/blob/main/public/preview/preview4.png"  /></a>
-   <h2>Modern Agency Landing page using GSAP, Locomotive Scroll..</h2>
+
+  
+   <h2> <a href="https://github.com/chetannn-github/REJOUICE">Modern Agency Landing page using GSAP, Locomotive Scroll..</a></h2>
  <a href="https://github.com/chetannn-github/REJOUICE"> <img src="https://github.com/chetannn-github/REJOUICE/blob/main/images/preview.png"  /></a>
   
   
