@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Chetan Singh Rajawat</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **MERN Stack** and **React Native**.
 
-- 💬 Ask me about **React.js, React Native, Tailwind CSS, GSAP, Express.js, MongoDB, Firebase ❤️**
+- 💬 Ask me about **React.js, React Native, Tailwind CSS, NativeWind, Redux, GSAP, Express.js, MongoDB, Firebase ❤️**
 
 - 📫 How to reach me **chetan.rajawat25@gmail.com**
 
