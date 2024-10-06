@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack** and **React Native**.
 
-- 💬 Ask me about **React.js, React Native, Tailwind CSS, NativeWind, Redux, GSAP, Express.js, MongoDB, Firebase ❤️**
+- 💬 Ask me about **React.js, React Native, Tailwind CSS, NativeWind, Redux, GSAP, Express.js, MongoDB, Firebase, Appwrite. ❤️**
 
 - 📫 How to reach me **chetan.rajawat25@gmail.com**
 
