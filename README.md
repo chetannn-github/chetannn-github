@@ -28,6 +28,23 @@
 <img width="45%" style="margin: 10px" height="180"  src="https://github-readme-streak-stats.herokuapp.com/?user=chetannn-github&" alt="chetannn-github" />
 </p>
 <h3>Example of my work: </h3>
+
+<p float="left">
+ <h2> <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> Aora-A Videosharing App using React Native</a></h2>
+ <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="30%" /></a>
+  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="30%" /></a>
+ <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview6.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview4.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview7.jpg" width="30%" /></a>
+
+
+
+
+
+
+
+
 <p float="left">
  <h2> <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> Aora-A Videosharing App using React Native</a></h2>
  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="30%" /></a>
