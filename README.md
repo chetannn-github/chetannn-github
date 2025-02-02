@@ -30,13 +30,13 @@
 <h3>Example of my work: </h3>
 
 <p float="left">
- <h2> <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> Aora-A Videosharing App using React Native</a></h2>
- <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="30%" /></a>
-  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="30%" /></a>
- <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview6.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview4.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview7.jpg" width="30%" /></a>
+ <h2> <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI">Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI</a></h2>
+ <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/leetcode.png" width="30%" /></a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/lock.png" width="30%" /></a>
+ <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/app%20drawer%202.png" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/app%20drawer.png" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/home.png" width="30%" /></a>
+<!-- <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="" width="30%" /></a> -->
 
 
 
