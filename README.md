@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chetan.rajawat25@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jcVK8-fyDbJgenMnk_dBXOenUcFB8CE5/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e5_vH6pp7IhrhBnFrfZxmEBeP5hGTCtL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
