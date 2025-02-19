@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/chetannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetannn" height="30" width="40" /></a>
 <a href="https://instagram.com/csrr.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csrr.ig" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chetan2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="csr2512" height="30" width="40" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Chetan+Singh+Rajawat" target="blank"><img align="center" src="https://github.com/chetannn-github/chetannn-github/blob/main/playstore.svgg" alt="csr2512" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/developer?id=Chetan+Singh+Rajawat" target="blank"><img align="center" src="https://github.com/chetannn-github/chetannn-github/blob/main/playstore.svg" alt="csr2512" height="30" width="40" /></a>
  
 </p>
 
