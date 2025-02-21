@@ -32,13 +32,13 @@
 
 <p float="left">
  <h2> <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI">Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI</a></h2>
- <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/home.png" width="30%" /></a>
- <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/leetcode.png" width="30%" /></a>
-  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/lock.png" width="30%" /></a>
- <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/app%20drawer%202.png" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/app%20drawer.png" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/playstore.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/assets/preview/playstore2.png" width="100%" /></a>
+ <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/home.png" width="30%" /></a>
+ <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/leetcode.png" width="30%" /></a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/lock.png" width="30%" /></a>
+ <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/app%20drawer%202.png" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/app%20drawer.png" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore2.png" width="100%" /></a>
 
 
 
