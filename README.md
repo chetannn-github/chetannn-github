@@ -41,6 +41,41 @@
 <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore2.png" width="100%" /></a>
 
 
+
+<p align="center">
+    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/home.png" width="30%" />
+    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/login.png" width="30%" />
+    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/profile.png" width="30%" />
+    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/create.png" width="30%" />
+    
+</p>
+
+
+
+
+
+ <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Web Application</a></h2>
+   <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/public/assets/preview.png"  /></a>
+
+  <h2><a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application">NETFLIX-GPT - AI-Powered Movie Search React Native Mobile Application</a></h2>
+  
+ <a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview1.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview2.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview3.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview4.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
 <p float="left">
  <h2> <a href="https://github.com/chetannn-github/Ride-Booking-App">Ride Booking Mobile App</a></h2>
  <a href="https://github.com/chetannn-github/Ride-Booking-App"> <img src="https://github.com/chetannn-github/Ride-Booking-App/blob/main/Client/src/assets/preview/role.png" width="30%" /></a>
@@ -58,17 +93,6 @@
 <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
 <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview7.jpg" width="30%" /></a>
 
- 
- <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Web Application</a></h2>
-   <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/public/assets/preview.png"  /></a>
-
-  <h2><a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application">NETFLIX-GPT - AI-Powered Movie Search React Native Mobile Application</a></h2>
-  
- <a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview1.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview2.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview3.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview4.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
 
 
 
