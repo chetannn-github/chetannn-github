@@ -41,9 +41,8 @@
 <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore2.png" width="100%" /></a>
 
 
-
-<p align="center">
-   <h2> <a href="https://github.com/chetannn-github/Bookworm">BookWorm 🐛 🐛</a></h2>
+ <h2> <a href="https://github.com/chetannn-github/Bookworm">BookWorm 🐛 🐛</a></h2>
+<p align="left">
     <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/home.png" width="30%" />
     <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/login.png" width="30%" />
     <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/profile.png" width="30%" />
