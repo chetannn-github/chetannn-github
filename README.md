@@ -52,6 +52,25 @@
 
 
 
+<p float="left">
+ <h2> <a href="https://github.com/chetannn-github/JavaScript-Practise-Problems">NPM package for JS polyfills</a> 
+  <a href="https://www.npmjs.com/package/chetan-js-polyfill">(NPM 🔗)</a></h2>
+<img src="https://github.com/chetannn-github/JavaScript-Practise-Problems/blob/main/src/assets/npm.png" width="100%" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Web Application</a></h2>
@@ -66,9 +85,6 @@
 <a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
 
 
-<p float="left">
- <h2> <a href="https://github.com/chetannn-github/Ride-Booking-App](https://github.com/chetannn-github/JavaScript-Practise-Problems">NPM package for JS polyfills</a></h2>
-<img src="https://github.com/chetannn-github/JavaScript-Practise-Problems/blob/main/src/assets/npm.png" width="100%" />
 
 
 
