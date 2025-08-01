@@ -9,13 +9,13 @@
 
 - 📫 How to reach me **chetan.rajawat25@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B6qSDgC4aWxO3g13wGg32-L3a6JQMMuT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14dPuhtKimW5ZoaxC5RItVJ3-tvbksQpE/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/csrrrtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csrrrtwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chetannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetannn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chetan2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="csr2512" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chetan-nan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="csr2512" height="30" width="40" /></a>
 
  
 </p>
