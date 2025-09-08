@@ -73,16 +73,13 @@
 
 
 
- <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Web Application</a></h2>
-   <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/public/assets/preview.png"  /></a>
-
-  <h2><a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application">NETFLIX-GPT - AI-Powered Movie Search React Native Mobile Application</a></h2>
-  
- <a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview1.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview2.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview3.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview4.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application"> <img src="https://github.com/chetannn-github/Netflix-GPT-React-Native-Mobile-Application/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
+  <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Web And Mobile Application</a></h2>
+  <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/web/public/assets/preview.png"  /></a>
+ <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview1.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview2.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview3.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview4.jpg" width="30%" /></a>
+<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview5.jpg" width="30%" /></a>
 
 
 
@@ -93,11 +90,6 @@
 
 
 
-<p float="left">
- <h2> <a href="https://github.com/chetannn-github/Ride-Booking-App">Ride Booking Mobile App</a></h2>
- <a href="https://github.com/chetannn-github/Ride-Booking-App"> <img src="https://github.com/chetannn-github/Ride-Booking-App/blob/main/Client/src/assets/preview/role.png" width="30%" /></a>
- <a href="https://github.com/chetannn-github/Ride-Booking-App"> <img src="https://github.com/chetannn-github/Ride-Booking-App/blob/main/Client/src/assets/preview/splash.png" width="30%" /></a>
-  <a href="https://github.com/chetannn-github/Ride-Booking-App"> <img src="https://github.com/chetannn-github/Ride-Booking-App/blob/main/Client/src/assets/preview/auth.png" width="30%" /></a>
 
 
 
