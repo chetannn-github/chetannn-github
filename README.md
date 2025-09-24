@@ -42,20 +42,21 @@
 
 
 <p float="left">
-  <h2> <a href="https://github.com/chetannn-github/reels-connect">ReelConnect | Instagram Reels Automation</a></h2>
+  <h2> <a href="https://reel-connect.onrender.com/">ReelConnect | Instagram Reels Automation</a></h2>
 
-  <a href="https://github.com/chetannn-github/reels-connect">
-    <img src="https://raw.githubusercontent.com/chetannn-github/reels-connect/main/web/src/assets/hero.png" width="100%" />
+  <a href="https://reel-connect.onrender.com/">
+    <img src="https://github.com/chetannn-github/chetannn-github/blob/main/hero.png" width="100%" />
   </a>
 
-  <a href="https://github.com/chetannn-github/reels-connect">
-    <img src="https://raw.githubusercontent.com/chetannn-github/reels-connect/main/web/src/assets/timeline.png" width="100%" />
+  <a href="https://reel-connect.onrender.com/">
+    <img src="https://github.com/chetannn-github/chetannn-github/blob/main/timeline.png" width="100%" />
   </a>
 
-  <a href="https://github.com/chetannn-github/reels-connect">
-    <img src="https://raw.githubusercontent.com/chetannn-github/reels-connect/main/web/src/assets/pricing.png" width="100%" />
+  <a href="https://reel-connect.onrender.com/">
+    <img src="https://github.com/chetannn-github/chetannn-github/blob/main/pricing.png" width="100%" />
   </a>
 </p>
+
 
 
 
