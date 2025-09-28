@@ -42,7 +42,7 @@
 
 
 <p float="left">
-  <h2> <a href="https://reel-connect.onrender.com/">ReelConnect | Instagram Reels Automation</a></h2>
+  <h2> <a href="https://instaconnector.in/">ReelConnect | Instagram Reels Automation</a></h2>
 
   <a href="https://reel-connect.onrender.com/">
     <img src="https://github.com/chetannn-github/chetannn-github/blob/main/hero.png" width="100%" />
