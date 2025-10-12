@@ -60,7 +60,7 @@
 
 ---
 
-<details>
+<details open>
   <summary><strong>🤖 ReelConnect - Instagram Reels Automation</strong></summary>
   <br>
   <a href="https://instaconnector.in/">
