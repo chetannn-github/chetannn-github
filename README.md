@@ -28,34 +28,166 @@
 
 <img width="45%" style="margin: 10px" height="180"  src="https://github-readme-streak-stats.herokuapp.com/?user=chetannn-github&" alt="chetannn-github" />
 </p>
-<h3>Example of my work: </h3>
-
-<p float="left">
- <h2> <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI">Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI</a></h2>
- <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/home.png" width="30%" /></a>
- <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/leetcode.png" width="30%" /></a>
-  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/lock.png" width="30%" /></a>
- <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/app%20drawer%202.png" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/app%20drawer.png" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore2.png" width="100%" /></a>
 
 
-<p float="left">
-  <h2> <a href="https://instaconnector.in/">ReelConnect | Instagram Reels Automation</a></h2>
+## 🧠 My Projects
 
+<details>
+  <summary><strong>📱 Focus - A Productivity Mobile Launcher (React Native CLI)</strong></summary>
+  <br>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> 
+    <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/home.png" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> 
+    <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/leetcode.png" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> 
+    <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/lock.png" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> 
+    <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/app%20drawer%202.png" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> 
+    <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/app%20drawer.png" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> 
+    <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI"> 
+    <img src="https://github.com/chetannn-github/Focus-A-Productivity-Mobile-Launcher-using-React-Native-CLI/blob/main/src/assets/preview/playstore2.png" width="100%" />
+  </a>
+</details>
+
+---
+
+<details>
+  <summary><strong>🤖 ReelConnect - Instagram Reels Automation</strong></summary>
+  <br>
   <a href="https://reel-connect.onrender.com/">
     <img src="https://github.com/chetannn-github/chetannn-github/blob/main/hero.png" width="100%" />
   </a>
-
   <a href="https://reel-connect.onrender.com/">
     <img src="https://github.com/chetannn-github/chetannn-github/blob/main/timeline.png" width="100%" />
   </a>
-
   <a href="https://reel-connect.onrender.com/">
     <img src="https://github.com/chetannn-github/chetannn-github/blob/main/pricing.png" width="100%" />
   </a>
-</p>
+</details>
+
+---
+
+<details>
+  <summary><strong>🚀 Feature Flow - Feature Flag Management Platform</strong></summary>
+  <br>
+  <a href="https://github.com/chetannn-github/feature-flow"> 
+    <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/dashboard.png" width="100%" />
+  </a>
+  <a href="https://github.com/chetannn-github/feature-flow"> 
+    <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/env.png" width="100%" />
+  </a>
+  <a href="https://github.com/chetannn-github/feature-flow"> 
+    <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/env2.png" width="100%" />
+  </a>
+  <a href="https://github.com/chetannn-github/feature-flow"> 
+    <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/env3.png" width="100%" />
+  </a>
+  <a href="https://github.com/chetannn-github/feature-flow"> 
+    <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/project.png" width="100%" />
+  </a>
+  <a href="https://github.com/chetannn-github/feature-flow"> 
+    <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/npm.png" width="100%" />
+  </a>
+</details>
+
+---
+
+<details>
+  <summary><strong>📚 BookWorm - Book Sharing App (React Native)</strong></summary>
+  <br>
+  <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/home.png" width="30%" />
+  <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/login.png" width="30%" />
+  <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/profile.png" width="30%" />
+  <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/create.png" width="30%" />
+</details>
+
+---
+
+<details>
+  <summary><strong>🧪 NPM Package - JS Polyfills</strong></summary>
+  <br>
+  <img src="https://github.com/chetannn-github/JavaScript-Practise-Problems/blob/main/src/assets/npm.png" width="100%" />
+</details>
+
+---
+
+<details>
+  <summary><strong>🍿 Netflix-GPT - AI Powered Movie Search App</strong></summary>
+  <br>
+  <a href="https://github.com/chetannn-github/Netflix-GPT">
+    <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/web/public/assets/preview.png" width="100%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Netflix-GPT">
+    <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview1.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Netflix-GPT">
+    <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview2.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Netflix-GPT">
+    <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview3.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Netflix-GPT">
+    <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview4.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/Netflix-GPT">
+    <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview5.jpg" width="30%" />
+  </a>
+</details>
+
+---
+
+<details>
+  <summary><strong>🎥 Aora - Video Sharing App (React Native)</strong></summary>
+  <br>
+  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> 
+    <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> 
+    <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="30%" />
+  </a>
+  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> 
+    <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview6.jpg" width="30%" />
+  </a>
+</details>
+
+---
+
+<details>
+  <summary><strong>🍽 Recipe Finder (React + Redux)</strong></summary>
+  <br>
+  <a href="https://github.com/chetannn-github/recipe-app"> 
+    <img src="https://github.com/chetannn-github/recipe-app/blob/main/public/preview.png" width="100%" />
+  </a>
+</details>
+
+---
+
+<details>
+  <summary><strong>📸 Instagram Clone (React + Firebase)</strong></summary>
+  <br>
+  <a href="https://github.com/chetannn-github/instagram-react-firebase"> 
+    <img src="https://github.com/chetannn-github/instagram-react-firebase/blob/main/public/preview/preview4.png" width="100%" />
+  </a>
+</details>
+
+---
+
+<details>
+  <summary><strong>🌐 REJOUICE - Modern Agency Landing Page (GSAP + Locomotive)</strong></summary>
+  <br>
+  <a href="https://github.com/chetannn-github/REJOUICE"> 
+    <img src="https://github.com/chetannn-github/REJOUICE/blob/main/images/preview.png" width="100%" />
+  </a>
+</details>
 
 
 
@@ -65,97 +197,7 @@
 
 
 
-<p float="left">
-  <h2> <a href="https://github.com/chetannn-github/feature-flow">Feature Flow | Feature Flag Management Platform</a></h2>
-  <a href="https://github.com/chetannn-github/feature-flow"> <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/dashboard.png" width="100%" /></a>
-  <a href="https://github.com/chetannn-github/feature-flow"> <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/env.png" width="100%" /></a>
-  <a href="https://github.com/chetannn-github/feature-flow"> <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/env2.png" width="100%" /></a>
-  <a href="https://github.com/chetannn-github/feature-flow"> <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/env3.png" width="100%" /></a>
-  <a href="https://github.com/chetannn-github/feature-flow"> <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/project.png" width="100%" /></a>
-  <a href="https://github.com/chetannn-github/feature-flow"> <img src="https://github.com/chetannn-github/feature-flow/raw/main/public/npm.png" width="100%" /></a>
- 
-</p>
 
 
 
 
-
-
-
- <h2> <a href="https://github.com/chetannn-github/Bookworm">BookWorm 🐛 🐛</a></h2>
-<p align="left">
-    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/home.png" width="30%" />
-    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/login.png" width="30%" />
-    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/profile.png" width="30%" />
-    <img src="https://github.com/chetannn-github/Bookworm/blob/main/mobile/assets/preview/create.png" width="30%" />
-    
-</p>
-
-
-
-<p float="left">
- <h2> <a href="https://github.com/chetannn-github/JavaScript-Practise-Problems">NPM package for JS polyfills</a> 
-  <a href="https://www.npmjs.com/package/chetan-js-polyfill">(NPM 🔗)</a></h2>
-<img src="https://github.com/chetannn-github/JavaScript-Practise-Problems/blob/main/src/assets/npm.png" width="100%" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <h2><a href="https://github.com/chetannn-github/Netflix-GPT">NETFLIX-GPT - AI-Powered Movie Search Web And Mobile Application</a></h2>
-  <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/web/public/assets/preview.png"  /></a>
- <a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview1.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview2.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview3.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview4.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/Netflix-GPT"> <img src="https://github.com/chetannn-github/Netflix-GPT/blob/main/app/assets/preview/preview5.jpg" width="30%" /></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p float="left">
- <h2> <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> Aora-A Videosharing App using React Native</a></h2>
- <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/homepage.jpeg" width="30%" /></a>
-  <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview2.jpg" width="30%" /></a>
- <a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview6.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview4.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview5.jpg" width="30%" /></a>
-<a href="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app"> <img src="https://github.com/chetannn-github/aora-videosharing-react-native-expo-app/blob/main/assets/preview/preview7.jpg" width="30%" /></a>
-
-
-
-
-   <h2> <a href="https://github.com/chetannn-github/recipe-app">Recipe Finder using ReactJS, Redux, CSS.</a></h2>
- <a href="https://github.com/chetannn-github/recipe-app"> <img src="https://github.com/chetannn-github/recipe-app/blob/main/public/preview.png"  /></a>
-
-    
-   <h2><a href="https://github.com/chetannn-github/instagram-react-firebase">Social Media Website using React & Firebase.</a></h2>
-  <a href="https://github.com/chetannn-github/instagram-react-firebase"> <img src="https://github.com/chetannn-github/instagram-react-firebase/blob/main/public/preview/preview4.png"  /></a>
-
-  
-   <h2> <a href="https://github.com/chetannn-github/REJOUICE">Modern Agency Landing page using GSAP, Locomotive Scroll..</a></h2>
- <a href="https://github.com/chetannn-github/REJOUICE"> <img src="https://github.com/chetannn-github/REJOUICE/blob/main/images/preview.png"  /></a>
-  
-  
-</p>
