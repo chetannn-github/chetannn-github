@@ -63,13 +63,13 @@
 <details>
   <summary><strong>🤖 ReelConnect - Instagram Reels Automation</strong></summary>
   <br>
-  <a href="https://reel-connect.onrender.com/">
+  <a href="https://instaconnector.in/">
     <img src="https://github.com/chetannn-github/chetannn-github/blob/main/hero.png" width="100%" />
   </a>
-  <a href="https://reel-connect.onrender.com/">
+  <a href="https://instaconnector.in/">
     <img src="https://github.com/chetannn-github/chetannn-github/blob/main/timeline.png" width="100%" />
   </a>
-  <a href="https://reel-connect.onrender.com/">
+  <a href="https://instaconnector.in/">
     <img src="https://github.com/chetannn-github/chetannn-github/blob/main/pricing.png" width="100%" />
   </a>
 </details>
